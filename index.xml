@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My CV blog</title>
+    <link>https://mitchachsn.github.io/</link>
+    <description>Recent content on My CV blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Jun 2021 11:39:05 +0100</lastBuildDate><atom:link href="https://mitchachsn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firstweek_iw</title>
+      <link>https://mitchachsn.github.io/posts/firstweek_iw/</link>
+      <pubDate>Tue, 29 Jun 2021 11:39:05 +0100</pubDate>
+      
+      <guid>https://mitchachsn.github.io/posts/firstweek_iw/</guid>
+      <description>The beginning
+public static void main(String[]args) { System.out.println(&amp;#34;This is a print statement&amp;#34;); } </description>
+    </item>
+    
+  </channel>
+</rss>

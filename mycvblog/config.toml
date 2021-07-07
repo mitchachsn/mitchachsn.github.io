@@ -1,0 +1,4 @@
+baseURL = "https://mitchachsn.github.io/"
+languageCode = "en-us"
+title = "My CV blog"
+theme="PaperMod"
